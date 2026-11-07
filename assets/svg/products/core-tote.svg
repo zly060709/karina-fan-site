@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 480">
+  <rect width="400" height="480" fill="#E8EBF2"/>
+  <rect x="1" y="1" width="398" height="478" fill="none" stroke="rgba(0,0,0,0.12)"/>
+  
+  <path d="M 140 180 C 140 120 260 120 260 180" fill="none" stroke="#565B6B" stroke-width="6"/>
+  <rect x="104" y="176" width="192" height="230" fill="#2A2D38" stroke="#565B6B" stroke-width="2"/>
+  <text x="200" y="300" text-anchor="middle" font-family="Archivo, Arial Black, sans-serif" font-weight="700" font-size="38" fill="#F2F4F8" letter-spacing="2">KR11</text>
+  <path d="M 200.0 323.0 Q 201.8 332.2 211.0 334.0 Q 201.8 335.8 200.0 345.0 Q 198.2 335.8 189.0 334.0 Q 198.2 332.2 200.0 323.0 Z" fill="#2E55FF" opacity="1.0"/>
+  <text x="200" y="64" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="13" letter-spacing="3" fill="#6A7080">KR11 · LOOKBOOK</text>
+</svg>

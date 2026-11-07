@@ -1,0 +1,16 @@
+{
+  "note": "日程数据 · 只收录已官宣信息，未官宣条目日期显示「—」（计划书 8.2 纪律）",
+  "upcoming": [
+    { "date": "—", "sub": "TO BE ANNOUNCED", "flag": "kr", "event": "SYNK : aeXIS LINE · 2026 LEG", "extra": "第三次世界巡演续程", "venue": "待官宣" },
+    { "date": "—", "sub": "TO BE ANNOUNCED", "flag": "jp", "event": "aeXIS LINE · JAPAN", "extra": "日本场追加日程", "venue": "待官宣" },
+    { "date": "—", "sub": "TO BE ANNOUNCED", "flag": "us", "event": "aeXIS LINE · AMERICAS", "extra": "美洲场追加日程", "venue": "待官宣" }
+  ],
+  "archive": [
+    { "date": "2025.10.04-05", "sub": "WORLD TOUR", "flag": "jp", "event": "SYNK : aeXIS LINE", "extra": "Marine Messe Fukuoka Hall A", "venue": "FUKUOKA" },
+    { "date": "2025.08.29-31", "sub": "WORLD TOUR OPENING", "flag": "kr", "event": "SYNK : aeXIS LINE", "extra": "KSPO DOME · 连开三晚", "venue": "SEOUL" },
+    { "date": "2025.03.16", "sub": "TOUR FINALE", "flag": "kr", "event": "SYNK : PARALLEL LINE", "extra": "KSPO DOME · 43 场收官", "venue": "SEOUL" },
+    { "date": "2024.08.17-18", "sub": "WORLD TOUR", "flag": "jp", "event": "SYNK : PARALLEL LINE", "extra": "TOKYO DOME", "venue": "TOKYO" },
+    { "date": "2024.06.29-30", "sub": "WORLD TOUR OPENING", "flag": "kr", "event": "SYNK : PARALLEL LINE", "extra": "蚕室室内体育馆", "venue": "SEOUL" },
+    { "date": "2022.04.23", "sub": "FESTIVAL", "flag": "us", "event": "COACHELLA 主舞台", "extra": "首个登上主舞台的 K-pop 女团", "venue": "INDIO" }
+  ]
+}

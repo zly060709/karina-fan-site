@@ -1,0 +1,232 @@
+{
+  "note": "ALL STAGES 卡墙数据 · 仅收录公开可查证节点，无图/无据卡片不渲染（计划书 Table 03-A 修正）",
+  "eras": [
+    {
+      "year": "2020",
+      "cards": [
+        {
+          "title": "BLACK MAMBA · 出道",
+          "venue": "出道单曲发行",
+          "city": "SEOUL",
+          "flag": "kr",
+          "date": "2020.11.17",
+          "img": "assets/img/karina/k-stage-01.jpg",
+          "note": "aespa 出道曲发行，K-pop 第四世代女团序幕",
+          "img2": "assets/img/scenes/stage-led.webp"
+        },
+        {
+          "title": "出道首个一位",
+          "venue": "KBS2 音乐银行",
+          "city": "SEOUL",
+          "flag": "kr",
+          "date": "2020.12",
+          "img": "assets/img/karina/k-stage-06.jpg",
+          "note": "BLACK MAMBA 拿下组合出道后首个音乐节目一位",
+          "img2": "assets/img/scenes/stage-crowd.webp"
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "cards": [
+        {
+          "title": "NEXT LEVEL 回归",
+          "venue": "数字单曲",
+          "city": "SEOUL",
+          "flag": "kr",
+          "date": "2021.05.17",
+          "img": "assets/img/karina/k-stage-12.jpg",
+          "note": "改编翻唱大成 · 组合首支 PAK 级热单",
+          "img2": "assets/img/scenes/stage-empty.webp"
+        },
+        {
+          "title": "SAVAGE · 首张迷你专辑",
+          "venue": "回归打歌期",
+          "city": "SEOUL",
+          "flag": "kr",
+          "date": "2021.10.05",
+          "img": "assets/img/karina/k-stage-11.jpg",
+          "note": "累计 8 个音乐节目一位",
+          "img2": "assets/img/scenes/stage-led.webp"
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "cards": [
+        {
+          "title": "COACHELLA 主舞台",
+          "venue": "Coachella Valley Music Festival",
+          "city": "INDIO · US",
+          "flag": "us",
+          "date": "2022.04.23",
+          "img": "assets/img/karina/k-group-01.jpg",
+          "venueSvg": "coachella",
+          "note": "首个登上 Coachella 主舞台的 K-pop 女团 · 美国首演",
+          "img2": "assets/img/scenes/stage-crowd.webp"
+        },
+        {
+          "title": "GIRLS · 第二张迷你专辑",
+          "venue": "回归打歌期",
+          "city": "SEOUL",
+          "flag": "kr",
+          "date": "2022.07.08",
+          "img": "assets/img/karina/k-stage-08.jpg",
+          "note": "KWANGYA 世界观续章",
+          "img2": "assets/img/scenes/stage-empty.webp"
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "cards": [
+        {
+          "title": "SYNK : HYPER LINE",
+          "venue": "第二次世界巡演开幕",
+          "city": "SEOUL",
+          "flag": "kr",
+          "date": "2023.02",
+          "img": "assets/img/karina/k-coachella-02.jpg",
+          "venueSvg": "jamsil",
+          "note": "首轮世界巡演，横跨亚洲与美洲",
+          "img2": "assets/img/scenes/stage-led.webp"
+        },
+        {
+          "title": "MY WORLD · SPICY",
+          "venue": "第三张迷你专辑",
+          "city": "SEOUL",
+          "flag": "kr",
+          "date": "2023.05.08",
+          "img": "assets/img/karina/k-stage-09.jpg",
+          "note": "预售超 168 万张，创当时女团纪录",
+          "img2": "assets/img/scenes/stage-crowd.webp"
+        },
+        {
+          "title": "DRAMA · 第四张迷你专辑",
+          "venue": "回归打歌期",
+          "city": "SEOUL",
+          "flag": "kr",
+          "date": "2023.11.10",
+          "img": "assets/img/karina/k-stage-02.jpg",
+          "note": "「我就是 Drama」——队长定位曲",
+          "img2": "assets/img/scenes/stage-empty.webp"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "cards": [
+        {
+          "title": "SUPERNOVA / ARMAGEDDON",
+          "venue": "正规一辑双重出击",
+          "city": "SEOUL",
+          "flag": "kr",
+          "date": "2024.05.27",
+          "img": "assets/img/karina/k-stage-05.jpg",
+          "note": "先行曲 SUPERNAOVA 大热，年度代表曲级",
+          "img2": "assets/img/scenes/stage-led.webp"
+        },
+        {
+          "title": "SYNK : PARALLEL LINE 开幕",
+          "venue": "蚕室室内体育馆",
+          "city": "SEOUL",
+          "flag": "kr",
+          "date": "2024.06.29",
+          "img": "assets/img/karina/k-coachella-03.jpg",
+          "venueSvg": "jamsil",
+          "note": "43 场世界巡演起点",
+          "img2": "assets/img/scenes/stage-crowd.webp"
+        },
+        {
+          "title": "TOKYO DOME",
+          "venue": "东京巨蛋",
+          "city": "TOKYO",
+          "flag": "jp",
+          "date": "2024.08.17",
+          "img": "assets/img/scenes/stage-crowd.webp",
+          "venueSvg": "tokyo-dome",
+          "note": "PARALLEL LINE 日本场 · 两日连开",
+          "img2": "assets/img/scenes/stage-empty.webp"
+        },
+        {
+          "title": "WHIPLASH · 第五张迷你专辑",
+          "venue": "回归打歌期",
+          "city": "SEOUL",
+          "flag": "kr",
+          "date": "2024.10.21",
+          "img": "assets/img/karina/k-stage-07.jpg",
+          "note": "全年 20 个一位 · 2024 打歌最强女团",
+          "img2": "assets/img/scenes/stage-led.webp"
+        },
+        {
+          "title": "UP · 个人 solo 舞台",
+          "venue": "PARALLEL LINE 巡演专场",
+          "city": "WORLD",
+          "flag": "kr",
+          "date": "2024.10",
+          "img": "assets/img/scenes/end-disc.webp",
+          "note": "队长首个个人单曲舞台",
+          "img2": "assets/img/scenes/stage-crowd.webp"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "cards": [
+        {
+          "title": "PARALLEL LINE 安可终场",
+          "venue": "KSPO DOME（奥林匹克体操竞技场）",
+          "city": "SEOUL",
+          "flag": "kr",
+          "date": "2025.03.16",
+          "img": "assets/img/karina/k-stage-10.jpg",
+          "venueSvg": "kspo-dome",
+          "note": "43 场巡演收官",
+          "img2": "assets/img/scenes/stage-empty.webp"
+        },
+        {
+          "title": "DIRTY WORK",
+          "venue": "数字单曲",
+          "city": "SEOUL",
+          "flag": "kr",
+          "date": "2025.06",
+          "img": "assets/img/scenes/stage-led.webp",
+          "note": "2025 年回归序章",
+          "img2": "assets/img/scenes/stage-crowd.webp"
+        },
+        {
+          "title": "SYNK : aeXIS LINE 开幕",
+          "venue": "KSPO DOME",
+          "city": "SEOUL",
+          "flag": "kr",
+          "date": "2025.08.29",
+          "img": "assets/img/scenes/stage-empty.webp",
+          "venueSvg": "kspo-dome",
+          "note": "第三次世界巡演 · 连开三晚 · solo 舞台 GOOD STUFF",
+          "img2": "assets/img/scenes/stage-crowd.webp"
+        },
+        {
+          "title": "MARINE MESSE 福冈",
+          "venue": "Marine Messe Fukuoka Hall A",
+          "city": "FUKUOKA",
+          "flag": "jp",
+          "date": "2025.10.04",
+          "img": "assets/img/karina/k-stage-12.jpg",
+          "venueSvg": "marine-messe",
+          "note": "aeXIS LINE 日本场",
+          "img2": "assets/img/scenes/stage-empty.webp"
+        },
+        {
+          "title": "RICH MAN · 第六张迷你专辑",
+          "venue": "回归打歌期",
+          "city": "SEOUL",
+          "flag": "kr",
+          "date": "2025.09",
+          "img": "assets/img/karina/k-stage-03.jpg",
+          "note": "主打曲累计 10 个音乐节目一位",
+          "img2": "assets/img/scenes/stage-led.webp"
+        }
+      ]
+    }
+  ]
+}

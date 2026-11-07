@@ -1,0 +1,190 @@
+[
+  {
+    "no": "01",
+    "id": "black-mamba",
+    "name": "BLACK MAMBA",
+    "year": "'20",
+    "tagline": "出道季 · 蛇鳞纹压碟",
+    "treat": "scales",
+    "colors": [
+      "#C8102E"
+    ],
+    "labelBg": "#101014",
+    "labelInk": "#F2F4F8",
+    "accent": "#C9CFDA",
+    "note": "2020.11.17 出道单曲时代",
+    "award": "出道单曲 · 2020.11.17",
+    "photo": "assets/img/karina/k-stage-01.jpg",
+    "date": "2020.11.17"
+  },
+  {
+    "no": "02",
+    "id": "next-level",
+    "name": "NEXT LEVEL",
+    "year": "'21",
+    "tagline": "正红洒溅 · 黑胶",
+    "treat": "splatter",
+    "colors": [
+      "#D22730",
+      "#8C1420"
+    ],
+    "labelBg": "#160B0D",
+    "labelInk": "#F2F4F8",
+    "accent": "#D22730",
+    "note": "2021.05 数字单曲 · PAK",
+    "award": "组合首支 PAK 级热单",
+    "photo": "assets/img/karina/k-stage-04.jpg",
+    "date": "2021.05.17"
+  },
+  {
+    "no": "03",
+    "id": "savage",
+    "name": "SAVAGE",
+    "year": "'21",
+    "tagline": "钢蓝故障洒溅",
+    "treat": "splatter",
+    "colors": [
+      "#5B85FF",
+      "#8F6BFF"
+    ],
+    "labelBg": "#0E0F16",
+    "labelInk": "#F2F4F8",
+    "accent": "#8FA6FF",
+    "note": "2021.10 首张迷你专辑",
+    "award": "首张迷你专辑 · 8 个一位",
+    "photo": "assets/img/karina/k-stage-11.jpg",
+    "date": "2021.10.05"
+  },
+  {
+    "no": "04",
+    "id": "girls",
+    "name": "GIRLS",
+    "year": "'22",
+    "tagline": "午夜蓝 × 鎏金洒溅",
+    "treat": "splatter",
+    "colors": [
+      "#E8C86A",
+      "#D4AF37"
+    ],
+    "labelBg": "#10142B",
+    "labelInk": "#E8C86A",
+    "accent": "#D4AF37",
+    "note": "2022.07 第二张迷你专辑 · Coachella 主舞台",
+    "award": "首个登上 Coachella 主舞台的 K-pop 女团",
+    "photo": "assets/img/karina/k-coachella-01.jpg",
+    "date": "2022.07.08"
+  },
+  {
+    "no": "05",
+    "id": "spicy",
+    "name": "SPICY",
+    "year": "'23",
+    "tagline": "红粉火焰洒溅",
+    "treat": "splatter",
+    "colors": [
+      "#FF4060",
+      "#FF7AA2"
+    ],
+    "labelBg": "#1A0B10",
+    "labelInk": "#F2F4F8",
+    "accent": "#FF4060",
+    "note": "2023.05 MY WORLD 主打",
+    "award": "MY WORLD · 预售超 168 万张",
+    "photo": "assets/img/karina/k-stage-09.jpg",
+    "date": "2023.05.08"
+  },
+  {
+    "no": "06",
+    "id": "drama",
+    "name": "DRAMA",
+    "year": "'23",
+    "tagline": "银白洒溅 × 冰洋红一笔",
+    "treat": "splatter",
+    "colors": [
+      "#C9CFDA",
+      "#FF3EC8"
+    ],
+    "labelBg": "#0E0E12",
+    "labelInk": "#F2F4F8",
+    "accent": "#FF3EC8",
+    "note": "2023.11 第四张迷你专辑",
+    "award": "第四张迷你专辑 · 2023.11",
+    "photo": "assets/img/karina/k-stage-02.jpg",
+    "date": "2023.11.10"
+  },
+  {
+    "no": "07",
+    "id": "supernova",
+    "name": "SUPERNOVA",
+    "year": "'24",
+    "tagline": "当家碟 · 电光蓝洒溅 × 星芒",
+    "treat": "splatter",
+    "colors": [
+      "#2E55FF",
+      "#4E79FF",
+      "#C9CFDA"
+    ],
+    "labelBg": "#101630",
+    "labelInk": "#F2F4F8",
+    "accent": "#8FA6FF",
+    "note": "2024.05 正规一辑先行曲 · 年度大热",
+    "award": "年度大热 · 助力全年 20 个一位",
+    "photo": "assets/img/karina/k-stage-03.jpg",
+    "date": "2024.05.13"
+  },
+  {
+    "no": "08",
+    "id": "armageddon",
+    "name": "ARMAGEDDON",
+    "year": "'24",
+    "tagline": "全铬镜碟 · 黑纹流挂",
+    "treat": "chrome",
+    "colors": [
+      "#0A0A0E"
+    ],
+    "labelBg": "#0B0B0E",
+    "labelInk": "#F2F4F8",
+    "accent": "#FF3EC8",
+    "note": "2024.05 首张正规专辑",
+    "award": "首张正规专辑 · 2024.05",
+    "photo": "assets/img/karina/k-stage-07.jpg",
+    "date": "2024.05.27"
+  },
+  {
+    "no": "09",
+    "id": "whiplash",
+    "name": "WHIPLASH",
+    "year": "'24",
+    "tagline": "黑银蚀刻斜纹盘",
+    "treat": "etched",
+    "colors": [
+      "#D7DCE6"
+    ],
+    "labelBg": "#0E0F13",
+    "labelInk": "#F2F4F8",
+    "accent": "#C9CFDA",
+    "note": "2024.10 第五张迷你专辑",
+    "award": "2024 打歌最强女团核心",
+    "photo": "assets/img/karina/k-stage-06.jpg",
+    "date": "2024.10.21"
+  },
+  {
+    "no": "10",
+    "id": "seoul",
+    "name": "SEOUL · 0411",
+    "year": "'25",
+    "tagline": "生日特别盘 · 星芒满铺",
+    "treat": "stars",
+    "colors": [
+      "#4E79FF",
+      "#C9CFDA"
+    ],
+    "labelBg": "#0C0F1E",
+    "labelInk": "#F2F4F8",
+    "accent": "#8FA6FF",
+    "note": "04.11 生日企划 one-off",
+    "award": "04.11 生日特别企划",
+    "photo": "assets/img/karina/k-editorial-02.jpg",
+    "date": "2025.04.11"
+  }
+]

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 48">
+  <text x="2" y="36" font-family="Archivo, Arial Black, sans-serif" font-weight="600" font-size="34" letter-spacing="-1" fill="#F2F4F8">KR</text>
+  <path d="M 78.0 5.0 Q 79.4 12.6 87.0 14.0 Q 79.4 15.4 78.0 23.0 Q 76.6 15.4 69.0 14.0 Q 76.6 12.6 78.0 5.0 Z" fill="#2E55FF" opacity="1.0"/>
+  <path d="M 64.0 33.0 Q 64.8 37.2 69.0 38.0 Q 64.8 38.8 64.0 43.0 Q 63.2 38.8 59.0 38.0 Q 63.2 37.2 64.0 33.0 Z" fill="#2E55FF" opacity="0.8"/>
+</svg>

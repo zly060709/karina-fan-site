@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <g opacity="0.9">
+    <path d="M 2,-88 C 44,-100 88,-70 96,-28 C 104,14 84,58 44,76 C 6,92 -48,84 -74,52 C -98,22 -92,-34 -64,-62 C -46,-80 -24,-82 2,-88 Z" transform="translate(180,160) scale(1.9) rotate(-12)" fill="url(#nb)"/>
+    <path d="M 0,-78 C 34,-92 74,-70 84,-34 C 94,2 78,44 44,64 C 10,84 -38,78 -64,50 C -88,24 -84,-26 -60,-54 C -42,-74 -26,-68 0,-78 Z" transform="translate(420,240) scale(1.2) rotate(30)" fill="url(#nb)"/>
+    <path d="M 0,-56 C 26,-64 58,-48 66,-20 C 74,8 58,38 30,48 C 2,58 -34,50 -48,26 C -62,2 -54,-32 -32,-46 C -22,-52 -12,-50 0,-56 Z" transform="translate(300,300) scale(0.9) rotate(70)" fill="url(#nb2)"/>
+  </g>
+  <defs>
+    <linearGradient id="nb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#23273A"/><stop offset="1" stop-color="#0C0C10"/></linearGradient>
+    <linearGradient id="nb2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2E55FF" stop-opacity="0.5"/><stop offset="1" stop-color="#2E55FF" stop-opacity="0"/></linearGradient>
+  </defs>
+  <path d="M 500.0 74.0 Q 502.6 87.4 516.0 90.0 Q 502.6 92.6 500.0 106.0 Q 497.4 92.6 484.0 90.0 Q 497.4 87.4 500.0 74.0 Z" fill="#2E55FF" opacity="1.0"/>
+  <path d="M 90.0 290.0 Q 91.6 298.4 100.0 300.0 Q 91.6 301.6 90.0 310.0 Q 88.4 301.6 80.0 300.0 Q 88.4 298.4 90.0 290.0 Z" fill="#4E79FF" opacity="0.8"/>
+  <path d="M 380.0 53.0 Q 381.1 58.9 387.0 60.0 Q 381.1 61.1 380.0 67.0 Q 378.9 61.1 373.0 60.0 Q 378.9 58.9 380.0 53.0 Z" fill="#C9CFDA" opacity="0.7"/>
+</svg>

@@ -1,0 +1,6 @@
+gallery_section.html
+served_tmp.html
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db

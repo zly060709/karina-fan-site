@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 480">
+  <rect width="400" height="480" fill="#E8EBF2"/>
+  <rect x="1" y="1" width="398" height="478" fill="none" stroke="rgba(0,0,0,0.12)"/>
+  
+  <path d="M 140 122 L 88 142 L 58 260 L 104 274 L 114 200 L 114 400 L 286 400 L 286 200 L 296 274 L 342 260 L 312 142 L 260 122 C 240 152 160 152 140 122 Z" fill="#23252E" stroke="#565B6B" stroke-width="2"/>
+  <path d="M 140 122 C 160 152 240 152 260 122" fill="none" stroke="#565B6B" stroke-width="2"/>
+  <text x="200" y="280" text-anchor="middle" font-family="Archivo, Arial Black, sans-serif" font-weight="700" font-size="38" fill="#F2F4F8" letter-spacing="2">KR11</text>
+  <text x="200" y="316" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="13" fill="#6A7080" letter-spacing="2">ALWAYS LEADING THE STAGE</text>
+  <path d="M 200.0 334.0 Q 201.6 342.4 210.0 344.0 Q 201.6 345.6 200.0 354.0 Q 198.4 345.6 190.0 344.0 Q 198.4 342.4 200.0 334.0 Z" fill="#2E55FF" opacity="1.0"/>
+  <text x="200" y="64" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="13" letter-spacing="3" fill="#6A7080">KR11 · LOOKBOOK</text>
+</svg>

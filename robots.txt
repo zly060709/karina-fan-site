@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kr11-fan.example/sitemap.xml
